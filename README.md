@@ -21,7 +21,7 @@ The proposed solution is to log all the critical events like the gear shifts wit
 
 ### Main Menu:
 
--The main menu should contain 2 option
+- The main menu should contain 2 option
   - View Log
   - Set Time
 - The UP / DOWN keys are used to navigate
